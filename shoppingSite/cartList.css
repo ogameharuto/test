@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .body{
     -webkit-text-size-adjust: 100%;
     word-wrap: break-word;
@@ -9,12 +9,10 @@
 }
 .aa{
     border: 1px solid #868686;
-=======
-
+}
 .topTitle{
     font-size: 28px;
     font-weight: 700;
->>>>>>> kame1
 }
 .whole{
     min-width: 1054px;
