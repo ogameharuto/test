@@ -1,11 +1,4 @@
-.body{
-    -webkit-text-size-adjust: 100%;
-    word-wrap: break-word;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    color: #434343;
-    line-height: inherit;
-    word-break: break-all;
-}
+
 .topTitle{
     font-size: 28px;
     font-weight: 700;
